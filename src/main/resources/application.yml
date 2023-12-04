@@ -77,3 +77,16 @@ gen:
   autoRemovePre: false
   # 表前缀（生成类名不会包含表前缀，多个用逗号分隔）
   tablePrefix: sys_
+
+
+
+
+translation:
+  baidu:
+    app-id: 20230909001810456
+    app-secret: Z93wN5Re9vjWvgOExpsS
+
+keys:
+  list:
+    - sk-VcsMNS2JQziQbWaFdmRvHBVqzIH0Ph6QNLN5a1X8QdaemMQ7
+    - sk-VcsMNS2JQziQbWaFdmRvHBVqzIH0Ph6QNLN5a1X8QdaemMQ7
